@@ -2,10 +2,6 @@
 
 An interactive sales dashboard built in **Microsoft Excel** using Pivot Tables, Pivot Charts and Slicers. It turns 1,800 raw sales orders into clear business insights on one screen.
 
-▶️ **Demo video:** _add your LinkedIn post / video link here_
-
-![Dashboard](screenshots/dashboard.png)
-
 ---
 
 ## 🎯 Objective
@@ -58,4 +54,4 @@ _Totals include Delivered, Cancelled and Returned orders._
 
 ## 👤 Author
 **Shemin T.S** – Data Analyst (Fresher)
-🔗 [LinkedIn](https://www.linkedin.com/in/shemin-t-s-b164b92b1) | 💻 [GitHub](https://github.com/Sheminsharafudheen)
+🔗 [linkedin].(www.linkedin.com/in/shemin-ts-b164b92b1). 💻 [GitHub](https://github.com/Sheminsharafudheen)
